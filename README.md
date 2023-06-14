@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ContardiC and I'm a FullStack Developer, from Italy</h2>
+<h2 align="left">Hi 👋! My name is Carlo Contardi and I'm a FullStack Developer, from Italy</h2>
 
 ###
 

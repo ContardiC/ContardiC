@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.im.ge/2023/06/14/i5Nb21.Logo-Space-Coding.png"  />
+
 
 ###
 

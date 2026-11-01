@@ -68,24 +68,16 @@
 
 ### 📊 GitHub activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ContardiC&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContardiC&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Top languages" height="180" />
-</p>
+- Main focus: building products, APIs and modern interfaces that are easy to use
+- Preferred stack: JavaScript, TypeScript, React, Java, Spring, Swift and Vapor
+- Current interests: architecture, performance, clean code and developer experience
+- Working on: scalable web and mobile solutions, with a strong product mindset
+- Open to: side projects, collaborations and product ideas with real impact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ContardiC&theme=dracula&hide_border=false" alt="GitHub streak" />
-</p>
-
----
-
-### ✨ Extra graphics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-FullStack%20Engineer-7C3AED?style=for-the-badge" alt="Full Stack Engineer badge" />
-  <img src="https://img.shields.io/badge/Italy-%F0%9F%87%AE%F0%9F%87%AA-0A66C2?style=for-the-badge" alt="Italy badge" />
-  <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20TypeScript%20%7C%20React-FF6B6B?style=for-the-badge" alt="Stack badge" />
-  <img src="https://img.shields.io/badge/Languages-Swift%20%7C%20Java%20%7C%20PHP-00BFA5?style=for-the-badge" alt="Languages badge" />
+  <img src="https://img.shields.io/badge/Code-Always%20learning-7C3AED?style=for-the-badge" alt="Learning badge" />
+  <img src="https://img.shields.io/badge/Product%20Mindset-Problem%20solver-FF6B6B?style=for-the-badge" alt="Problem solver badge" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-0A66C2?style=for-the-badge" alt="Full stack badge" />
 </p>
 
 <p align="center">

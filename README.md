@@ -75,8 +75,8 @@
 - Open to: side projects, collaborations and product ideas with real impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ContardiC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContardiC&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ContardiC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContardiC&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" /> -->
 </p>
 
 <p align="center">

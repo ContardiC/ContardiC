@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlo Contardi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Java+%7C+Spring+%7C+PHP;From+Italy+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Java+%7C+Spring+%7C+PHP;Swift+%7C+Vapor;From+Italy+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,17 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlo-contardi-4a4306105/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlo-contardi-4a4306105/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/carlo_contardi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@space-coding" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.twitch.tv/space_coding" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  <a href="mailto:c.contardi@spacecoding.it">
+    <img src="https://img.shields.io/badge/Email-c.contardi%40spacecoding.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -58,6 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="36" alt="swift logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vapor-30B4F2?style=for-the-badge&logo=swift&logoColor=white" alt="vapor badge" height="36" />
 </div>
 
 ---
@@ -68,6 +66,7 @@
 - Creating real-world software for people and businesses
 - Learning new technologies and improving my workflow
 - Exploring web, mobile, and full stack architecture
+- Working with Swift and Vapor for backend and product development
 - Sharing knowledge through content and community
 
 ---
@@ -85,13 +84,13 @@
 
 ---
 
-### 🌐 Let's connect
+### 🌐 Contact
 
 <p align="center">
-  <a href="mailto:carlo.contardi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:c.contardi@spacecoding.it" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-c.contardi%40spacecoding.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
-  <a href="https://www.linkedin.com/in/carlo-contardi-4a4306105/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlo-contardi-4a4306105/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

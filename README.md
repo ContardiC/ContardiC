@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlo Contardi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Java+%7C+Spring+%7C+PHP;Swift+%7C+Vapor;From+Italy+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Java+%7C+Spring+%7C+Swift;Building+products+with+purpose" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -73,6 +73,15 @@
 - Current interests: architecture, performance, clean code and developer experience
 - Working on: scalable web and mobile solutions, with a strong product mindset
 - Open to: side projects, collaborations and product ideas with real impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ContardiC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContardiC&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ContardiC&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Always%20learning-7C3AED?style=for-the-badge" alt="Learning badge" />

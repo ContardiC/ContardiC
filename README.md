@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlo Contardi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Java+%7C+Spring+%7C+PHP;Swift+%7C+Vapor;From+Italy+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Java+%7C+Spring+%7C+PHP;Swift+%7C+Vapor;From+Italy+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
+  <a href="mailto:c.contardi@spacecoding.it" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-c.contardi%40spacecoding.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/carlo-contardi-4a4306105/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:c.contardi@spacecoding.it">
-    <img src="https://img.shields.io/badge/Email-c.contardi%40spacecoding.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -26,73 +26,66 @@
 
 ---
 
-### 🚀 Technologies & Tools
+### 🚀 Main stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="36" alt="ionic logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="36" alt="swift logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vapor-30B4F2?style=for-the-badge&logo=swift&logoColor=white" alt="vapor badge" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="34" alt="swift logo" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Vapor-30B4F2?style=for-the-badge&logo=swift&logoColor=white" height="34" alt="vapor badge" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="34" alt="ionic logo" />
 </div>
 
 ---
 
-### 💡 What I enjoy
+### 💡 What I like to build
 
-- Building modern interfaces and user experiences
-- Creating real-world software for people and businesses
-- Learning new technologies and improving my workflow
-- Exploring web, mobile, and full stack architecture
-- Working with Swift and Vapor for backend and product development
-- Sharing knowledge through content and community
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ContardiC&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContardiC&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ContardiC&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</p>
+- Full stack applications and APIs
+- Modern frontend experiences with React and TypeScript
+- Clean backend architecture with Java, Spring, Swift and Vapor
+- Product ideas that solve real user problems
+- Interfaces that are both functional and beautiful
 
 ---
 
-### 🌐 Contact
+### 📊 GitHub activity
 
 <p align="center">
-  <a href="mailto:c.contardi@spacecoding.it" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-c.contardi%40spacecoding.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlo-contardi-4a4306105/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ContardiC&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContardiC&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Top languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ContardiC&theme=dracula&hide_border=false" alt="GitHub streak" />
+</p>
+
+---
+
+### ✨ Extra graphics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-FullStack%20Engineer-7C3AED?style=for-the-badge" alt="Full Stack Engineer badge" />
+  <img src="https://img.shields.io/badge/Italy-%F0%9F%87%AE%F0%9F%87%AA-0A66C2?style=for-the-badge" alt="Italy badge" />
+  <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20TypeScript%20%7C%20React-FF6B6B?style=for-the-badge" alt="Stack badge" />
+  <img src="https://img.shields.io/badge/Languages-Swift%20%7C%20Java%20%7C%20PHP-00BFA5?style=for-the-badge" alt="Languages badge" />
 </p>
 
 <p align="center">
